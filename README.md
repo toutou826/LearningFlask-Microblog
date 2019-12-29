@@ -1,9 +1,3 @@
-# LearningFlask-Microblog
+# Welcome to Microblog!
 
-Following The Flask Mega-Tutorial by Miguel Grinberg: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-
-
-# What I learned from following this tutorial:
-- Basics of Flask
-- Basics of Database
-- Basics of Error Handling
+This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
